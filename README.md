@@ -2,7 +2,9 @@
   <img src="assets/hello.svg" />
 </p>
 
-<h1 align="center">👋 I'm Krrish Kumar Dangi</h1>
+<h1 align="center">
+  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> I'm Krrish Kumar Dangi
+</h1>
 
 <p align="center">
 🎓 B.Tech CSE Student at Bennett University, Greater Noida <br>
@@ -22,8 +24,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krrish-Dangi&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=Krrish-Dangi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krrish-Dangi&theme=github_dark" />
 </p>
 
 
@@ -44,15 +46,11 @@
   <img src="https://leetcard.jacoblin.cool/Krrish-Kumar-Dangi?theme=dark&font=Baloo" />
 </a>
 
-<a href="https://codolio.com/profile/Krrish-Dangi">
-  <img src="https://codolio.com/api/profile/Krrish-Dangi" />
-</a>
-
 </p>
 
 
 
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krrish-kumar-dangi" target="_blank">
