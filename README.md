@@ -42,11 +42,7 @@
 ## DSA Stats
 
 <p align="center">
-
-<a href="https://leetcode.com/Krrish-Kumar-Dangi/">
-  <img src="https://leetcard.jacoblin.cool/Krrish-Kumar-Dangi?theme=dark&font=Baloo" />
-</a>
-
+  <img src="https://leetcard.jacoblin.cool/Krrish-Kumar-Dangi?theme=dark&ext=heatmap" width="70%" />
 </p>
 
 
@@ -65,5 +61,6 @@
 
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star!
+  "First, solve the problem. Then, write the code."  
+  — John Johnson
 </p>
